@@ -27,6 +27,7 @@ Full Stack Developer · Cloud & DevOps · MSc Artificial Intelligence
 
 </div>
 
+
 ---
 
 ## `01` — ABOUT ME
@@ -43,6 +44,7 @@ My interests span the complete software development lifecycle — from designing
 - 🚀 **DevOps:** Git, GitHub Actions, CI/CD workflows
 - 🐧 **Infrastructure:** Linux, Ubuntu, Nginx, PM2, SSH
 - 🔒 **Deployment:** DNS, domains, subdomains, SSL/TLS, HTTPS
+- 🤖 **Artificial Intelligence:** MSc Artificial Intelligence, Python, and machine learning exploration
 
 I enjoy turning requirements into reliable software and managing the journey from development to production.
 
@@ -65,7 +67,7 @@ I enjoy turning requirements into reliable software and managing the journey fro
 
 **Core stack**
 
-React · Node.js · Express
+React · Next.js · Node.js · Express
 
 </td>
 <td width="50%" valign="top">
@@ -136,7 +138,21 @@ Linux · Ubuntu · Nginx · PM2 · Certbot
 MySQL · MongoDB · Prisma · SQL
 
 </td>
+<td width="50%" valign="top">
 
+### 🤖 AI & Machine Learning
+
+- Artificial intelligence concepts
+- Python programming
+- Machine learning exploration
+- AI integration into software applications
+- Data-driven problem solving
+
+**Focus**
+
+MSc Artificial Intelligence · Python · AI/ML
+
+</td>
 </tr>
 </table>
 
@@ -161,6 +177,10 @@ MySQL · MongoDB · Prisma · SQL
 ### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" />
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 
 </div>
 
@@ -212,46 +232,115 @@ I focus on the complete deployment process: configuring application environments
 
 ---
 
-## `05` — SELECTED ENGINEERING WORK
+## `05` — FEATURED PROJECTS
 
-> A selection of engineering capabilities from my development work. Client-confidential projects and private source code remain private.
+<div align="center">
 
-### 🏢 Business & Enterprise Applications
+**Selected projects across enterprise software, institutional websites, and corporate platforms.**
 
-Building management systems and business applications that organize operational workflows, data, and administrative processes.
+</div>
 
-**Focus:** React · Node.js · Express · MySQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Full Stack Web Applications
+### 🎓 MES College Kochi
 
-Developing responsive interfaces, backend APIs, authentication flows, and database-backed application features.
+Institutional website supporting academic information, announcements, events, and college updates.
 
-**Focus:** React · JavaScript · REST APIs · MySQL · MongoDB
+**Tech Stack**
 
-### ☁️ Cloud Deployment & Hosting
+React · Node.js · Express · MySQL
 
-Deploying frontend and backend applications to cloud infrastructure and virtual private servers, with web server configuration and process management.
+**Project type:** Institutional web platform
 
-**Focus:** AWS · Oracle Cloud · Ubuntu · Nginx · PM2
+[View portfolio →](https://anandhu-s.vercel.app)
 
-### 🔄 Deployment Automation
+</td>
+<td width="50%" valign="top">
 
-Working with version control and CI/CD workflows to make application builds and deployments more repeatable.
+### 🏢 Cellar Innovative Developers
 
-**Focus:** Git · GitHub Actions · Deployment workflows
+Interactive corporate website showcasing company services and its professional digital presence.
 
-### 🤖 AI & Software Exploration
+**Tech Stack**
 
-Exploring practical applications of artificial intelligence and machine learning alongside full-stack engineering.
+React · JavaScript · 3D Web
 
-**Focus:** Python · AI/ML
+**Project type:** Corporate website
 
-<br/>
+[View portfolio →](https://anandhu-s.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Spice Planters
+
+Responsive corporate website for a business focused on oleoresins and related products, with structured content and backend API integration.
+
+**Tech Stack**
+
+React · JavaScript · CSS · REST APIs
+
+**Project type:** Corporate web platform
+
+[View portfolio →](https://anandhu-s.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 QP Solution
+
+Question bank management and question paper generation platform designed for autonomous college examination workflows.
+
+**Tech Stack**
+
+React · Node.js · Express · MySQL
+
+**Project type:** Examination management
+
+🔒 Client-confidential project
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ College ERP Platform
+
+A multi-module college management platform designed to support academic and administrative workflows with role-based access.
+
+**Tech Stack**
+
+React · Node.js · Express · MySQL
+
+**Project type:** Enterprise application
+
+🚧 In development
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Hosting & Deployment
+
+Application hosting and server administration across cloud virtual machines and Linux environments.
+
+**Technologies**
+
+AWS · Oracle Cloud · Ubuntu · Nginx · PM2
+
+**Focus:** Deployment, reverse proxy configuration, SSL/TLS, and server management.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/anandhus2255?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Public_Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_Public_Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -284,7 +373,7 @@ Exploring practical applications of artificial intelligence and machine learning
 - Improving cloud deployment and CI/CD workflows
 - Exploring cloud infrastructure and server automation
 - Strengthening software architecture and database design
-- Exploring practical AI integration
+- Exploring practical AI integration and machine learning applications
 
 ---
 
