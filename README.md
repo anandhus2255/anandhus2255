@@ -1,62 +1,50 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:09090B,50:111827,100:082F49&text=ANANDHU%20S&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CLOUD%20%26%20DEVOPS%20%7C%20AI&descAlignY=63&descSize=13&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:09090B,55:111827,100:0C4A6E&text=ANANDHU%20S&fontColor=F8FAFC&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20%26%20DevOps%20%C2%B7%20MSc%20Artificial%20Intelligence&descAlignY=65&descSize=17&descColor=94A3B8&section=header" width="100%" alt="Anandhu S - Full Stack Developer, Cloud and DevOps, MSc Artificial Intelligence" />
 
 <br/>
 
-### Building. Deploying. Scaling.
-
-Full Stack Developer · Cloud & DevOps · MSc Artificial Intelligence
-
-<br/>
-
-<a href="https://anandhu-s.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/anandhus2255?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/anandhu-s-7b9929247/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://anandhu-s.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/anandhu-s-7b9929247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/anandhus2255?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=anandhus2255&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" />
+<sub><a href="#about">About</a> &nbsp;|&nbsp; <a href="#expertise">Expertise</a> &nbsp;|&nbsp; <a href="#technology-stack">Stack</a> &nbsp;|&nbsp; <a href="#deployment-workflow">Deployment</a> &nbsp;|&nbsp; <a href="#projects">Projects</a> &nbsp;|&nbsp; <a href="#github-analytics">Analytics</a> &nbsp;|&nbsp; <a href="#contact">Contact</a></sub>
 
 </div>
 
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
 
-## `01` — ABOUT ME
+## About
 
-I'm a Full Stack Developer with 2.5+ years of experience building web applications, business management platforms, and database-driven software.
+Full Stack Developer with 2.5+ years of experience building web applications, business management platforms, and database-driven software. My work covers the complete software lifecycle: user interfaces, backend APIs, database architecture, cloud hosting, deployment automation, and production server management.
 
-My interests span the complete software development lifecycle — from designing user interfaces and backend APIs to database architecture, cloud hosting, deployment automation, and production server management.
+| Area | Focus |
+|:--|:--|
+| **Development** | Full-stack web applications and enterprise software |
+| **Frontend** | React, Next.js, JavaScript |
+| **Backend** | Node.js, Express.js, PHP, REST APIs |
+| **Databases** | MySQL, MongoDB, Prisma |
+| **Cloud** | AWS, Oracle Cloud Infrastructure (OCI), VPS hosting |
+| **DevOps** | Git, GitHub Actions, CI/CD workflows |
+| **Infrastructure** | Linux, Ubuntu, Nginx, PM2, SSH |
+| **Deployment** | DNS, domains, subdomains, SSL/TLS, HTTPS |
+| **Artificial Intelligence** | MSc Artificial Intelligence, Python, machine learning |
 
-- 💻 **Development:** Full-stack web applications and enterprise software
-- ⚛️ **Frontend:** React, Next.js, JavaScript
-- ⚙️ **Backend:** Node.js, Express.js, PHP, REST APIs
-- 🗄️ **Databases:** MySQL, MongoDB, Prisma
-- ☁️ **Cloud:** AWS, Oracle Cloud Infrastructure (OCI), VPS hosting
-- 🚀 **DevOps:** Git, GitHub Actions, CI/CD workflows
-- 🐧 **Infrastructure:** Linux, Ubuntu, Nginx, PM2, SSH
-- 🔒 **Deployment:** DNS, domains, subdomains, SSL/TLS, HTTPS
-- 🤖 **Artificial Intelligence:** MSc Artificial Intelligence, Python, and machine learning exploration
+<br/>
 
-I enjoy turning requirements into reliable software and managing the journey from development to production.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
 
----
-
-## `02` — ENGINEERING EXPERTISE
+## Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Full Stack Development
+**Full Stack Development**
 
 - Responsive web applications
 - Component-based UI architecture
@@ -65,14 +53,15 @@ I enjoy turning requirements into reliable software and managing the journey fro
 - Database-driven business logic
 - Frontend and backend integration
 
-**Core stack**
-
-React · Next.js · Node.js · Express
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white" alt="Express" />
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud & Hosting
+**Cloud and Hosting**
 
 - Cloud virtual machine deployment
 - VPS setup and configuration
@@ -81,16 +70,16 @@ React · Next.js · Node.js · Express
 - Domain and subdomain setup
 - Application connectivity troubleshooting
 
-**Platforms**
-
-AWS · Oracle Cloud Infrastructure · VPS
+<img src="https://img.shields.io/badge/AWS-18181B?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/Oracle%20Cloud-18181B?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Cloud" />
+<img src="https://img.shields.io/badge/VPS-18181B?style=flat-square" alt="VPS" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & CI/CD
+**DevOps and CI/CD**
 
 - Git-based version control
 - Automated build and deployment workflows
@@ -99,14 +88,14 @@ AWS · Oracle Cloud Infrastructure · VPS
 - Deployment troubleshooting
 - Repeatable application delivery
 
-**Tools**
-
-Git · GitHub · GitHub Actions
+<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🐧 Linux & Server Administration
+**Linux and Server Administration**
 
 - Ubuntu server administration
 - SSH access and server configuration
@@ -115,16 +104,17 @@ Git · GitHub · GitHub Actions
 - SSL certificate setup
 - Application logs and troubleshooting
 
-**Tools**
-
-Linux · Ubuntu · Nginx · PM2 · Certbot
+<img src="https://img.shields.io/badge/Ubuntu-18181B?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Nginx-18181B?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx" />
+<img src="https://img.shields.io/badge/PM2-18181B?style=flat-square" alt="PM2" />
+<img src="https://img.shields.io/badge/Certbot-18181B?style=flat-square&logo=letsencrypt&logoColor=white" alt="Certbot" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ Database Engineering
+**Database Engineering**
 
 - Relational database design
 - MySQL database administration
@@ -133,14 +123,14 @@ Linux · Ubuntu · Nginx · PM2 · Certbot
 - ORM-based database access
 - Production database configuration
 
-**Technologies**
-
-MySQL · MongoDB · Prisma · SQL
+<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+**AI and Machine Learning**
 
 - Artificial intelligence concepts
 - Python programming
@@ -148,255 +138,161 @@ MySQL · MongoDB · Prisma · SQL
 - AI integration into software applications
 - Data-driven problem solving
 
-**Focus**
-
-MSc Artificial Intelligence · Python · AI/ML
+<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/MSc%20Artificial%20Intelligence-18181B?style=flat-square" alt="MSc Artificial Intelligence" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## `03` — TECHNOLOGY STACK
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
+
+## Technology Stack
 
 <div align="center">
 
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap&theme=dark" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,prisma&theme=dark" />
-
-### Cloud, DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=aws,oracle,linux,nginx,docker,githubactions&theme=dark" />
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" />
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+| Frontend | Backend and Databases | Cloud and Infrastructure | Developer Tools | AI and ML |
+|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap&theme=dark&perline=3" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,prisma&theme=dark&perline=3" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=aws,oracle,linux,nginx,docker,githubactions&theme=dark&perline=3" alt="Cloud" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark&perline=3" alt="Tools" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark&perline=2" alt="AI" /> |
 
 </div>
 
----
+<br/>
 
-## `04` — CLOUD & DEPLOYMENT WORKFLOW
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
+
+## Deployment Workflow
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-Development-27272A?style=for-the-badge" />
-
-<br/>React · Node.js · Express · MySQL
-
-<br/><br/>
-
-⬇
-
-<br/>
-
-<img src="https://img.shields.io/badge/02-Version_Control_%26_CI%2FCD-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-<br/>Git · GitHub · GitHub Actions
-
-<br/><br/>
-
-⬇
-
-<br/>
-
-<img src="https://img.shields.io/badge/03-Cloud_Infrastructure-0369A1?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
-<br/>AWS · Oracle Cloud Infrastructure · VPS
-
-<br/><br/>
-
-⬇
-
-<br/>
-
-<img src="https://img.shields.io/badge/04-Production_Environment-0F766E?style=for-the-badge" />
-
-<br/>Ubuntu · Nginx · PM2 · SSL/TLS · DNS
-
-<br/><br/>
+| 01 &nbsp; Development | 02 &nbsp; Version Control and CI/CD | 03 &nbsp; Cloud Infrastructure | 04 &nbsp; Production |
+|:-:|:-:|:-:|:-:|
+| React, Node.js<br/>Express, MySQL | Git, GitHub<br/>GitHub Actions | AWS, Oracle Cloud<br/>VPS | Ubuntu, Nginx, PM2<br/>SSL/TLS, DNS |
 
 </div>
 
-I focus on the complete deployment process: configuring application environments, connecting frontend and backend services, managing server processes, setting up HTTPS, and troubleshooting production issues.
+I handle the complete deployment process: configuring application environments, connecting frontend and backend services, managing server processes, setting up HTTPS, and troubleshooting production issues.
 
----
+<br/>
 
-## `05` — FEATURED PROJECTS
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
 
-<div align="center">
+## Projects
 
-**Selected projects across enterprise software, institutional websites, and corporate platforms.**
-
-</div>
+Production projects, each deployed and hosted on cloud and Linux infrastructure that I configure and maintain (Nginx reverse proxy, PM2 process management, SSL/TLS, DNS).
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 MES College Kochi
+<a href="https://www.mes-kochi.org/"><img src="assets/mes-kochi.png" alt="MES College Kochi" width="100%" /></a>
 
-Institutional website supporting academic information, announcements, events, and college updates.
+### MES College Kochi
 
-**Tech Stack**
+Institutional website with dynamic content management for news, events and academic information.
 
-React · Node.js · Express · MySQL
+`React` `Node.js` `Express` `MySQL`
 
-**Project type:** Institutional web platform
-
-[View portfolio →](https://anandhu-s.vercel.app)
+**[Live Site →](https://www.mes-kochi.org/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Cellar Innovative Developers
+<a href="https://www.cellarinnovative.dev/"><img src="assets/cellar-innovative.png" alt="Cellar Innovative Developers" width="100%" /></a>
 
-Interactive corporate website showcasing company services and its professional digital presence.
+### Cellar Innovative Developers
 
-**Tech Stack**
+Immersive 3D interactive corporate website with a professional web presence.
 
-React · JavaScript · 3D Web
+`React` `JavaScript` `3D Web`
 
-**Project type:** Corporate website
-
-[View portfolio →](https://anandhu-s.vercel.app)
+**[Live Site →](https://www.cellarinnovative.dev/)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 Spice Planters
+<a href="https://www.spiceplanters.com/"><img src="assets/spice-planters.png" alt="Spice Planters" width="100%" /></a>
 
-Responsive corporate website for a business focused on oleoresins and related products, with structured content and backend API integration.
+### Spice Planters
 
-**Tech Stack**
+Responsive corporate website with structured content and backend APIs.
 
-React · JavaScript · CSS · REST APIs
+`React` `JavaScript` `CSS` `REST APIs`
 
-**Project type:** Corporate web platform
-
-[View portfolio →](https://anandhu-s.vercel.app)
+**[Live Site →](https://www.spiceplanters.com/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 📝 QP Solution
+<a href="https://www.qpsolutions.in/login"><img src="assets/qp-solution.png" alt="QP Solution" width="100%" /></a>
 
-Question bank management and question paper generation platform designed for autonomous college examination workflows.
+### QP Solution
 
-**Tech Stack**
+Question bank management and question paper generation for autonomous colleges.
 
-React · Node.js · Express · MySQL
+`React` `Node.js` `Express` `MySQL`
 
-**Project type:** Examination management
-
-🔒 Client-confidential project
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ College ERP Platform
-
-A multi-module college management platform designed to support academic and administrative workflows with role-based access.
-
-**Tech Stack**
-
-React · Node.js · Express · MySQL
-
-**Project type:** Enterprise application
-
-🚧 In development
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud Hosting & Deployment
-
-Application hosting and server administration across cloud virtual machines and Linux environments.
-
-**Technologies**
-
-AWS · Oracle Cloud · Ubuntu · Nginx · PM2
-
-**Focus:** Deployment, reverse proxy configuration, SSL/TLS, and server management.
+**[Live Site →](https://www.qpsolutions.in/login)**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+**In development:** College ERP Platform, a multi-module college management system for academic and administrative workflows with role-based access (React, Node.js, Express, MySQL).
 
-<a href="https://github.com/anandhus2255?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_Public_Repositories-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
 
----
-
-## `06` — GITHUB ANALYTICS
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anandhus2255&show_icons=true&hide_border=true&bg_color=09090B&title_color=38BDF8&icon_color=38BDF8&text_color=E4E4E7&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhus2255&layout=compact&hide_border=true&bg_color=09090B&title_color=38BDF8&text_color=E4E4E7&langs_count=8" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=anandhus2255&hide_border=true&background=09090B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E4E4E7&dates=71717A" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anandhus2255&show_icons=true&hide_border=true&bg_color=09090B&title_color=38BDF8&icon_color=38BDF8&text_color=E4E4E7&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhus2255&layout=compact&hide_border=true&bg_color=09090B&title_color=38BDF8&text_color=E4E4E7&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandhus2255&bg_color=09090b&color=e4e4e7&line=0ea5e9&point=38bdf8&area=true&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=anandhus2255&hide_border=true&background=09090B&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E4E4E7&dates=71717A" alt="Streak stats" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anandhus2255&bg_color=09090b&color=e4e4e7&line=0ea5e9&point=38bdf8&area=true&hide_border=true" alt="Activity graph" />
 
 </div>
 
----
+<br/>
 
-## `07` — CURRENT FOCUS
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
+
+## Current Focus
 
 - Building robust full-stack applications
 - Improving cloud deployment and CI/CD workflows
-- Exploring cloud infrastructure and server automation
-- Strengthening software architecture and database design
-- Exploring practical AI integration and machine learning applications
+- Cloud infrastructure and server automation
+- Software architecture and database design
+- Practical AI integration and machine learning applications
 
----
+<br/>
 
-## `08` — LET'S CONNECT
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0EA5E9,100:09090B&section=header" width="100%" alt="" />
 
-I'm interested in connecting with engineering teams, collaborating on meaningful products, and solving challenging software problems.
+## Contact
+
+Open to connecting with engineering teams, collaborating on meaningful products, and solving challenging software problems.
 
 <div align="center">
 
-<a href="https://anandhu-s.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/anandhus2255">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-18181B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/anandhu-s-7b9929247/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://anandhu-s.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/anandhu-s-7b9929247/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/anandhus2255"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<sub>ENGINEER WITH PURPOSE · AUTOMATE WITH INTENT · BUILD FOR SCALE</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0C4A6E,55:111827,100:09090B&section=footer&text=Engineer%20with%20purpose.%20Automate%20with%20intent.%20Build%20for%20scale.&fontColor=94A3B8&fontSize=15&fontAlignY=50" width="100%" alt="" />
 
 </div>
