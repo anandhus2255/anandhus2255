@@ -41,60 +41,91 @@ I own features end to end: **requirements** → **React frontend** → **Node.js
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<a href="https://www.mes-kochi.org/"><img src="mes-kochi.png" width="100%" alt="MES College Kochi" /></a>
-
-### MES College Kochi
-
-Institutional website with dynamic content management for news, events and academic information.
-
-`React` `Node.js` `Express` `MySQL`
-
-[Live Site →](https://www.mes-kochi.org/)
-
+<td width="48%" align="center" valign="middle">
+  <a href="https://www.mes-kochi.org/">
+    <img src="mes-kochi.png" width="100%" alt="MES College Kochi" />
+  </a>
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="middle">
 
-<a href="https://www.cellarinnovative.dev/"><img src="cellar-innovative.png" width="100%" alt="Cellar Innovative Developers" /></a>
+### [MES College Kochi](https://www.mes-kochi.org/)
 
-### Cellar Innovative Developers
+Dynamic institutional portal serving students, faculty, and administration with real-time academic announcements, event scheduling, and departmental operations.
 
-Immersive 3D interactive corporate website with a professional web presence.
+- **Highlights:** Dynamic admin CMS, responsive UI, secure REST endpoints
+- **Stack:** `React` `Node.js` `Express` `MySQL`
 
-`React` `JavaScript` `3D Web`
-
-[Live Site →](https://www.cellarinnovative.dev/)
+<p>
+  <a href="https://www.mes-kochi.org/"><b>Live Site ↗</b></a>
+</p>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="48%" align="center" valign="middle">
+  <a href="https://www.cellarinnovative.dev/">
+    <img src="cellar-innovative.png" width="100%" alt="Cellar Innovative Developers" />
+  </a>
+</td>
+<td width="52%" valign="middle">
 
-<a href="https://www.spiceplanters.com/"><img src="spice-planters.png" width="100%" alt="Spice Planters" /></a>
+### [Cellar Innovative Developers](https://www.cellarinnovative.dev/)
 
-### Spice Planters
+Immersive 3D interactive corporate website engineered for modern digital branding with smooth WebGL animations and responsive architecture.
 
-Responsive corporate website with structured content and backend APIs.
+- **Highlights:** Interactive 3D graphics, fluid micro-interactions, responsive design
+- **Stack:** `React` `JavaScript` `3D Web` `CSS3`
 
-`React` `JavaScript` `CSS` `REST APIs`
-
-[Live Site →](https://www.spiceplanters.com/)
+<p>
+  <a href="https://www.cellarinnovative.dev/"><b>Live Site ↗</b></a>
+</p>
 
 </td>
-<td width="50%" valign="top">
+</tr>
 
-<a href="https://www.qpsolutions.in/login"><img src="qp-solution.png" width="100%" alt="QP Solution" /></a>
+<tr>
+<td width="48%" align="center" valign="middle">
+  <a href="https://www.spiceplanters.com/">
+    <img src="spice-planters.png" width="100%" alt="Spice Planters" />
+  </a>
+</td>
+<td width="52%" valign="middle">
 
-### QP Solution
+### [Spice Planters](https://www.spiceplanters.com/)
 
-Question bank management and question paper generation for autonomous colleges.
+Responsive corporate business platform featuring structured product cataloging, customer inquiry pipelines, and optimized cloud delivery.
 
-`React` `Node.js` `Express` `MySQL`
+- **Highlights:** Product showcases, customer inquiry pipelines, fast API integration
+- **Stack:** `React` `JavaScript` `REST APIs` `CSS`
 
-*Confidential client project*
+<p>
+  <a href="https://www.spiceplanters.com/"><b>Live Site ↗</b></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="48%" align="center" valign="middle">
+  <a href="https://www.qpsolutions.in/login">
+    <img src="qp-solution.png" width="100%" alt="QP Solution" />
+  </a>
+</td>
+<td width="52%" valign="middle">
+
+### [QP Solution](https://www.qpsolutions.in/login)
+
+Intelligent question bank and examination paper generation suite built for autonomous colleges with algorithmic paper balancing.
+
+- **Highlights:** Role-based authorization, PDF generation, question taxonomy
+- **Stack:** `React` `Node.js` `Express` `MySQL`
+
+<p>
+  <a href="https://www.qpsolutions.in/login"><b>Live Portal ↗</b></a> &nbsp;•&nbsp; <i>Confidential client project</i>
+</p>
 
 </td>
 </tr>
