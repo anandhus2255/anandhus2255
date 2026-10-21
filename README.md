@@ -1,34 +1,29 @@
-<table>
+<table width="100%">
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<br/>
-
-# <font size="7"><b>ANANDHU S</b></font>
-
+<h1 align="center"><b>ANANDHU S</b></h1>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&width=75&color=00A8FF" alt="" />
-
-<br/>
 
 </td>
 <td width="62%" valign="middle">
 
-### FULL STACK ENGINEER
+<h3><b>FULL STACK ENGINEER</b></h3>
 
-**MSc in Artificial Intelligence &nbsp;•&nbsp; <font color="#00A8FF">2.5+ Years of Industry Experience</font>**
+<p>
+<b>MSc in Artificial Intelligence</b> &nbsp;•&nbsp; <b><font color="#00A8FF">2.5+ Years of Industry Experience</font></b>
+</p>
 
+<p>
 Building scalable web applications, mobile apps and enterprise ERP systems,<br/>
 from UI to database to deployment.
+</p>
 
-<br/>
-
-<a href="mailto:anandhuwarriem@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ANANDHUWARRIEM%40GMAIL.COM-00A8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email" />
-</a>
+<p>
+<a href="mailto:anandhuwarriem@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ANANDHUWARRIEM%40GMAIL.COM-00A8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=334155" alt="Email" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/anandhu-s-7b9929247/">
-  <img src="https://img.shields.io/badge/LINKEDIN-ANANDHU--S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/anandhu-s-7b9929247/"><img src="https://img.shields.io/badge/LINKEDIN-ANANDHU--S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=334155" alt="LinkedIn" /></a>
+</p>
 
 </td>
 </tr>
