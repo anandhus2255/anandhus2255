@@ -39,7 +39,7 @@ I own features end to end: **requirements** → **React frontend** → **Node.js
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://www.mes-kochi.org/"><img src="assets/mes-kochi.png" width="100%" alt="MES College Kochi" /></a>
+<a href="https://www.mes-kochi.org/"><img src="mes-kochi.png" width="100%" alt="MES College Kochi" /></a>
 
 ### MES College Kochi
 
@@ -52,7 +52,7 @@ Institutional website with dynamic content management for news, events and acade
 </td>
 <td width="50%" valign="top">
 
-<a href="https://www.cellarinnovative.dev/"><img src="assets/cellar-innovative.png" width="100%" alt="Cellar Innovative Developers" /></a>
+<a href="https://www.cellarinnovative.dev/"><img src="cellar-innovative.png" width="100%" alt="Cellar Innovative Developers" /></a>
 
 ### Cellar Innovative Developers
 
@@ -67,7 +67,7 @@ Immersive 3D interactive corporate website with a professional web presence.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://www.spiceplanters.com/"><img src="assets/spice-planters.png" width="100%" alt="Spice Planters" /></a>
+<a href="https://www.spiceplanters.com/"><img src="spice-planters.png" width="100%" alt="Spice Planters" /></a>
 
 ### Spice Planters
 
@@ -80,7 +80,7 @@ Responsive corporate website with structured content and backend APIs.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://www.qpsolutions.in/login"><img src="assets/qp-solution.png" width="100%" alt="QP Solution" /></a>
+<a href="https://www.qpsolutions.in/login"><img src="qp-solution.png" width="100%" alt="QP Solution" /></a>
 
 ### QP Solution
 
@@ -120,8 +120,7 @@ A unified ERP for managing college operations with role-based access across 15+ 
 | **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" /> |
 | **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" /> |
 | **Databases** | <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> |
-| **Hosting & Cloud** | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> |
-| **AI & ML** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| **Hosting & Cloud** | <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
 | **Dev Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> |
 | **AI-Assisted Dev** | <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/Antigravity-007ACC?style=flat-square" /> |
 | **Design** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Stitch-007ACC?style=flat-square" /> |
