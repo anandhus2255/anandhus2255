@@ -1,38 +1,6 @@
-<table>
-<tr>
-<td width="42%" align="center" valign="middle">
-
-<br/>
-
-# <font size="7"><b>ANANDHU S</b></font>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&width=70&color=00A8FF" alt="" />
-
-<br/>
-
-</td>
-<td width="58%" valign="middle">
-
-### FULL STACK ENGINEER
-
-**MSc in Artificial Intelligence &nbsp;·&nbsp; 2.5+ Years of Industry Experience**
-
-Building scalable web applications, mobile apps and enterprise ERP systems,<br/>
-from UI to database to deployment.
-
-<br/>
-
-<a href="mailto:anandhuwarriem@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ANANDHUWARRIEM%40GMAIL.COM-00A8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=404040" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/anandhu-s-7b9929247/">
-  <img src="https://img.shields.io/badge/LINKEDIN-ANANDHU--S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=404040" alt="LinkedIn" />
-</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="banner.svg" alt="Anandhu S - Full Stack Engineer" width="100%" />
+</p>
 
 ---
 
