@@ -1,8 +1,17 @@
-<div align="center">
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
 
-# ANANDHU S
+<br/>
+
+# <font size="7"><b>ANANDHU S</b></font>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&width=70&color=00A8FF" alt="" />
+
+<br/>
+
+</td>
+<td width="58%" valign="middle">
 
 ### FULL STACK ENGINEER
 
@@ -21,7 +30,9 @@ from UI to database to deployment.
   <img src="https://img.shields.io/badge/LINKEDIN-ANANDHU--S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=404040" alt="LinkedIn" />
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
